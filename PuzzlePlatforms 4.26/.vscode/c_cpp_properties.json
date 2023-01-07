@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "PuzzlePlatformsEditor Editor Win64 Development (PuzzlePlatforms)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_PuzzlePlatforms.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

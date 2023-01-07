@@ -1,0 +1,107 @@
+[
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\InGameMenu.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\InGameMenu.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MainMenu.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MainMenu.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MenuInterface.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MenuInterface.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MenuWidget.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MenuSystem\\\\MenuWidget.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MovingPlatform.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\MovingPlatform.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PlatformTrigger.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PlatformTrigger.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.Build.cs",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsCharacter.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsCharacter.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameInstance.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameInstance.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameMode.cpp",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\paulv\\\\Desktop\\\\Unreal Multiplayer game\\\\2_Menu_System\\\\PuzzlePlatforms 4.26\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameMode.h",
+		"command": "S:\\Visual Studio 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\paulv\\Desktop\\Unreal Multiplayer game\\2_Menu_System\\PuzzlePlatforms 4.26\\.vscode\\compileCommands_Default\\PuzzlePlatforms.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
